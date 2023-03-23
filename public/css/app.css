@@ -1,0 +1,17 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #131313;
+}
+
+.main .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.task-item {
+   width: 400px;
+}
+
